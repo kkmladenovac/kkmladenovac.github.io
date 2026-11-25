@@ -1,39 +1,69 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-25",
  "group": "Pioniri, Beogradska liga U14, grupa 1",
  "standings": [
   {
    "pos": 1,
-   "team": "KK Pobednik 011",
-   "p": 1,
-   "w": 1,
+   "team": "Košarkaška Akademija Rebrača",
+   "p": 2,
+   "w": 2,
    "l": 0,
-   "pf": 86,
-   "pa": 28,
-   "pts": 2
+   "pf": 179,
+   "pa": 84,
+   "pts": 4
   },
   {
    "pos": 2,
-   "team": "Košarkaška Akademija Rebrača",
-   "p": 1,
-   "w": 1,
+   "team": "KK Pobednik 011",
+   "p": 2,
+   "w": 2,
    "l": 0,
-   "pf": 88,
-   "pa": 40,
-   "pts": 2
+   "pf": 158,
+   "pa": 66,
+   "pts": 4
   },
   {
    "pos": 3,
-   "team": "KK Sfera",
-   "p": 1,
+   "team": "KK Barajevo",
+   "p": 2,
    "w": 1,
-   "l": 0,
-   "pf": 79,
-   "pa": 49,
-   "pts": 2
+   "l": 1,
+   "pf": 96,
+   "pa": 135,
+   "pts": 3
   },
   {
    "pos": 4,
+   "team": "KK Mladenovac",
+   "p": 2,
+   "w": 1,
+   "l": 1,
+   "pf": 100,
+   "pa": 91,
+   "pts": 3
+  },
+  {
+   "pos": 5,
+   "team": "KK Torlak OKK Beograd 2",
+   "p": 2,
+   "w": 1,
+   "l": 1,
+   "pf": 96,
+   "pa": 67,
+   "pts": 3
+  },
+  {
+   "pos": 6,
+   "team": "KK Sfera",
+   "p": 2,
+   "w": 1,
+   "l": 1,
+   "pf": 117,
+   "pa": 121,
+   "pts": 3
+  },
+  {
+   "pos": 7,
    "team": "KK Beovuk 72 - 2",
    "p": 1,
    "w": 1,
@@ -43,63 +73,33 @@
    "pts": 2
   },
   {
-   "pos": 5,
-   "team": "KK Barajevo",
-   "p": 1,
-   "w": 1,
-   "l": 0,
-   "pf": 52,
-   "pa": 44,
+   "pos": 8,
+   "team": "KK Mondo Basket 3",
+   "p": 2,
+   "w": 0,
+   "l": 2,
+   "pf": 88,
+   "pa": 135,
    "pts": 2
   },
   {
-   "pos": 6,
-   "team": "KK Mladenovac",
-   "p": 1,
-   "w": 0,
-   "l": 1,
-   "pf": 44,
-   "pa": 52,
-   "pts": 1
-  },
-  {
-   "pos": 7,
-   "team": "KK Torlak OKK Beograd 2",
-   "p": 1,
-   "w": 0,
-   "l": 1,
-   "pf": 25,
-   "pa": 48,
-   "pts": 1
-  },
-  {
-   "pos": 8,
-   "team": "KK Mondo Basket 3",
-   "p": 1,
-   "w": 0,
-   "l": 1,
-   "pf": 49,
-   "pa": 79,
-   "pts": 1
-  },
-  {
    "pos": 9,
+   "team": "KK Čubura 2",
+   "p": 2,
+   "w": 0,
+   "l": 2,
+   "pf": 47,
+   "pa": 157,
+   "pts": 2
+  },
+  {
+   "pos": 10,
    "team": "KK As Basket 3",
    "p": 1,
    "w": 0,
    "l": 1,
    "pf": 40,
    "pa": 88,
-   "pts": 1
-  },
-  {
-   "pos": 10,
-   "team": "KK Čubura 2",
-   "p": 1,
-   "w": 0,
-   "l": 1,
-   "pf": 28,
-   "pa": 86,
    "pts": 1
   },
   {
@@ -119,72 +119,192 @@
    "date": "07.11.2026",
    "matches": [
     {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "KK Pobednik 011",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "KK Mondo Basket 3",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK Barajevo",
-     "score": "44:52"
+     "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK As Basket 3",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Cerak"
   },
   {
    "round": 2,
    "date": "21.11.2026",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Mondo Basket 3",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Čubura 2",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK As Basket 3"
   },
   {
    "round": 3,
    "date": "28.11.2026",
    "matches": [
     {
+     "home": "KK Čubura 2",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK Pobednik 011",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Mondo Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Barajevo",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Beovuk 72 - 2"
   },
   {
    "round": 4,
    "date": "05.12.2026",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Torlak OKK Beograd 2",
      "away": "KK Mladenovac",
      "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Barajevo"
   },
   {
    "round": 5,
    "date": "12.12.2026",
    "matches": [
     {
+     "home": "KK Sfera",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK Cerak",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Pobednik 011",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Mondo Basket 3",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Čubura 2"
   },
   {
    "round": 6,
    "date": "19.12.2026",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Beovuk 72 - 2",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Barajevo",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK As Basket 3",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Mondo Basket 3"
   },
   {
    "round": 7,
@@ -194,26 +314,92 @@
      "home": "KK Mladenovac",
      "away": "KK Čubura 2",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Pobednik 011",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Sfera"
   },
   {
    "round": 8,
    "date": "23.01.2027",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK Barajevo",
+     "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Sfera",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Mondo Basket 3",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Pobednik 011"
   },
   {
    "round": 9,
    "date": "30.01.2027",
-   "matches": [],
+   "matches": [
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    }
+   ],
    "bye": "KK Mladenovac"
   },
   {
@@ -221,12 +407,32 @@
    "date": "06.02.2027",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK Pobednik 011",
+     "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Mondo Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "KK Barajevo",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "Košarkaška Akademija Rebrača",
      "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Torlak OKK Beograd 2"
   },
   {
    "round": 11,
@@ -236,57 +442,157 @@
      "home": "KK As Basket 3",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Cerak",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "Košarkaška Akademija Rebrača"
   },
   {
    "round": 12,
    "date": "06.03.2027",
    "matches": [
     {
+     "home": "KK As Basket 3",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Barajevo",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Cerak"
   },
   {
    "round": 13,
    "date": "13.03.2027",
    "matches": [
     {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "KK Pobednik 011",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK Mondo Basket 3",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Barajevo",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK As Basket 3"
   },
   {
    "round": 14,
    "date": "20.03.2027",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Pobednik 011",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Sfera",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Beovuk 72 - 2"
   },
   {
    "round": 15,
    "date": "27.03.2027",
    "matches": [
     {
+     "home": "KK Čubura 2",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK Torlak OKK Beograd 2",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Pobednik 011",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Mondo Basket 3",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Barajevo"
   },
   {
    "round": 16,
@@ -296,33 +602,93 @@
      "home": "KK Cerak",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Barajevo",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Čubura 2"
   },
   {
    "round": 17,
    "date": "10.04.2027",
    "matches": [
     {
+     "home": "KK Sfera",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK Beovuk 72 - 2",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Pobednik 011",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Mondo Basket 3"
   },
   {
    "round": 18,
    "date": "17.04.2027",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
      "home": "KK Čubura 2",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Mondo Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Barajevo",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Sfera"
   },
   {
    "round": 19,
@@ -332,14 +698,60 @@
      "home": "KK Mladenovac",
      "away": "KK Sfera",
      "score": null
+    },
+    {
+     "home": "Košarkaška Akademija Rebrača",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Cerak",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Pobednik 011"
   },
   {
    "round": 20,
    "date": "08.05.2027",
-   "matches": [],
+   "matches": [
+    {
+     "home": "KK Cerak",
+     "away": "KK Mondo Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Barajevo",
+     "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "KK As Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "Košarkaška Akademija Rebrača",
+     "score": null
+    },
+    {
+     "home": "KK Torlak OKK Beograd 2",
+     "away": "KK Pobednik 011",
+     "score": null
+    }
+   ],
    "bye": "KK Mladenovac"
   },
   {
@@ -350,21 +762,61 @@
      "home": "Košarkaška Akademija Rebrača",
      "away": "KK Mladenovac",
      "score": null
+    },
+    {
+     "home": "KK As Basket 3",
+     "away": "KK Sfera",
+     "score": null
+    },
+    {
+     "home": "KK Barajevo",
+     "away": "KK Čubura 2",
+     "score": null
+    },
+    {
+     "home": "KK Mondo Basket 3",
+     "away": "KK Beovuk 72 - 2",
+     "score": null
+    },
+    {
+     "home": "KK Pobednik 011",
+     "away": "KK Cerak",
+     "score": null
     }
    ],
-   "bye": null
+   "bye": "KK Torlak OKK Beograd 2"
   },
   {
    "round": 22,
    "date": "22.05.2027",
    "matches": [
     {
+     "home": "KK Cerak",
+     "away": "KK Torlak OKK Beograd 2",
+     "score": null
+    },
+    {
+     "home": "KK Beovuk 72 - 2",
+     "away": "KK Pobednik 011",
+     "score": null
+    },
+    {
+     "home": "KK Čubura 2",
+     "away": "KK Mondo Basket 3",
+     "score": null
+    },
+    {
+     "home": "KK Sfera",
+     "away": "KK Barajevo",
+     "score": null
+    },
+    {
      "home": "KK Mladenovac",
      "away": "KK As Basket 3",
      "score": null
     }
    ],
-   "bye": null
+   "bye": "Košarkaška Akademija Rebrača"
   }
  ]
 }
