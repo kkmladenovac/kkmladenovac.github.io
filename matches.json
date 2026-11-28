@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-28",
  "group": "Pioniri, Beogradska liga U14, grupa 1",
  "standings": [
   {
    "pos": 1,
-   "team": "Košarkaška Akademija Rebrača",
-   "p": 2,
+   "team": "KK Torlak OKK Beograd 2",
+   "p": 3,
    "w": 2,
-   "l": 0,
-   "pf": 179,
-   "pa": 84,
-   "pts": 4
+   "l": 1,
+   "pf": 153,
+   "pa": 105,
+   "pts": 5
   },
   {
    "pos": 2,
@@ -24,6 +24,26 @@
   },
   {
    "pos": 3,
+   "team": "KK Sfera",
+   "p": 3,
+   "w": 1,
+   "l": 2,
+   "pf": 155,
+   "pa": 178,
+   "pts": 4
+  },
+  {
+   "pos": 4,
+   "team": "Košarkaška Akademija Rebrača",
+   "p": 2,
+   "w": 2,
+   "l": 0,
+   "pf": 179,
+   "pa": 84,
+   "pts": 4
+  },
+  {
+   "pos": 5,
    "team": "KK Barajevo",
    "p": 2,
    "w": 1,
@@ -33,33 +53,13 @@
    "pts": 3
   },
   {
-   "pos": 4,
+   "pos": 6,
    "team": "KK Mladenovac",
    "p": 2,
    "w": 1,
    "l": 1,
    "pf": 100,
    "pa": 91,
-   "pts": 3
-  },
-  {
-   "pos": 5,
-   "team": "KK Torlak OKK Beograd 2",
-   "p": 2,
-   "w": 1,
-   "l": 1,
-   "pf": 96,
-   "pa": 67,
-   "pts": 3
-  },
-  {
-   "pos": 6,
-   "team": "KK Sfera",
-   "p": 2,
-   "w": 1,
-   "l": 1,
-   "pf": 117,
-   "pa": 121,
    "pts": 3
   },
   {
